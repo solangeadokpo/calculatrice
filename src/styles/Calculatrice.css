@@ -1,0 +1,48 @@
+
+.container{
+    width :400px;
+    height:90px;
+    margin : 0 350px;
+}
+
+.premiereList {
+	display: flex;
+	flex-wrap: wrap;
+    margin:0;
+}
+.SecondeList{  
+    display: flex;
+    margin:0;
+
+}
+.list {
+	display :block;
+    height: 80px;
+	width: 118px;
+    border: 1px solid;
+    text-align: -moz-center;
+    background:rgb(39, 37, 37);
+    color:white;
+}
+
+.list1{
+    background : rgba(121, 110, 110, 0);
+    display :block;
+    height: 80px;
+	width: 118px;
+    text-align: -moz-center;
+    background: rgb(177, 75, 8);
+    color:white;
+}
+button:active {
+    background:rgba(45, 45, 99, 0.116);
+}
+.Ecran{
+    width: 210px;
+    text-align-last: right;
+    padding : 70px;
+    font-size:50px;
+    font-family:Arial;
+    margin-left :40px;
+    border:1px solid black;
+}
